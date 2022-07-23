@@ -1,0 +1,66 @@
+@charset "UTF-8";
+/*共通*/
+* {
+	padding: 0;
+	margin:auto;
+}
+
+body {
+	height: 100%;
+	margin: 20;
+}
+
+h1 {
+	padding: 10px 0;
+}
+
+h2{
+	padding: 10px 40px;
+}
+
+
+
+header {
+	padding-top: 10px;
+	border-bottom: 5px solid #33FF33;
+	text-align: center;
+}
+
+footer {
+	position: fixed;
+	width: 100%;
+	height: 100px;
+	bottom: -30px;
+	border-top: 5px solid #33FF33;
+}
+
+
+#main {
+	padding-top: 150px;
+	padding-bottom: 650px;
+}
+
+
+table {
+	margin-left: auto;
+    margin-right: auto;
+	margin-bottom: 50px;
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
